@@ -1,0 +1,16 @@
+{
+  "name": "elex_to_srt",
+  "version": "1.0.0",
+  "description": "elex data exported to srt file, to be integrated into live video HTML5 text track, with video js or similar, live streaming, and video js captions plugin for roll-on mode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-timecodes": "^2.1.4",
+    "subtitles-parser": "0.0.2"
+  }
+}

@@ -1,0 +1,480 @@
+id,raceid,racetype,racetypeid,description,electiondate,initialization_data,lastupdated,national,officeid,officename,party,seatname,seatnum,statename,statepostal,test,uncontested
+7584,7584,Special General,G,Jeffco Successor Direct,2015-11-03,True,2015-11-04T03:00:44Z,False,0,School Board,,District 1,1,,CO,False,True
+7586,7586,Special General,G,Jeffco Successor Direct,2015-11-03,True,2015-11-04T11:08:10Z,False,0,School Board,,District 2,2,,CO,False,False
+7588,7588,Special General,G,Jeffco Successor Direct,2015-11-03,True,2015-11-04T11:08:10Z,False,0,School Board,,District 5,5,,CO,False,False
+7589,7589,General,G,Jeffco,2015-11-03,True,2015-11-04T11:08:10Z,False,0,School Board,,District 3,3,,CO,False,False
+7590,7590,General,G,Jeffco,2015-11-03,True,2015-11-04T11:08:10Z,False,0,School Board,,District 4,4,,CO,False,False
+7582,7582,Ballot Issue,G,Excess of Blue Book Est,2015-11-03,True,2015-11-04T15:51:27Z,False,I,Proposition,,BB Retain Revenue,,,CO,False,False
+7583,7583,Ballot Issue,G,Jeffco School Dist 1,2015-11-03,True,2015-11-04T11:08:10Z,False,I,Question,,Recall Williams Dist 1,,,CO,False,False
+7585,7585,Ballot Issue,G,Jeffco School Dist 2,2015-11-03,True,2015-11-04T11:08:10Z,False,I,Question,,Recall Newkirk Dist 2,,,CO,False,False
+7587,7587,Ballot Issue,G,Jeffco School Dist 5,2015-11-03,True,2015-11-04T11:08:10Z,False,I,Question,,Recall Witt Dist 5,,,CO,False,False
+18333,18333,General,G,,2015-11-03,True,2015-11-04T05:23:54Z,False,0,Supreme Court,,District 7,7,,KY,False,False
+18527,18527,General,G,,2015-11-03,True,2015-11-04T19:11:23Z,False,A,Attorney General,,,,,KY,False,False
+18801,18801,General,G,,2015-11-03,True,2015-11-04T05:20:49Z,False,F,Agriculture Commissioner,,,,,KY,False,False
+18525,18525,General,G,,2015-11-03,True,2015-11-04T19:14:28Z,True,G,Governor,,,,,KY,False,False
+18526,18526,General,G,,2015-11-03,True,2015-11-04T05:20:49Z,False,R,Secretary of State,,,,,KY,False,False
+18528,18528,General,G,,2015-11-03,True,2015-11-04T18:41:09Z,False,T,Treasurer,,,,,KY,False,False
+18529,18529,General,G,,2015-11-03,True,2015-11-04T19:20:34Z,False,U,Auditor,,,,,KY,False,False
+21281,21281,Ballot Issue,G,Citizen Initiative,2015-11-03,True,2015-11-04T21:01:13Z,False,I,Question,,1 - Promote Clean Elections,,,ME,False,False
+21282,21282,Ballot Issue,G,$15 Million-PL Chapt 337,2015-11-03,True,2015-11-04T21:01:13Z,False,I,Question,,2 - Housing Bonds,,,ME,False,False
+21283,21283,Ballot Issue,G,$85 Million-PL Chapt 305,2015-11-03,True,2015-11-04T21:04:16Z,False,I,Question,,3 - Transportation Bonds,,,ME,False,False
+21286,21286,Ballot Issue,G,Question 1,2015-11-03,True,2015-11-04T03:05:14Z,False,I,Municipal Ordinance,,Portland Minimum Wage,,,ME,False,False
+21287,21287,Ballot Issue,G,Question 2,2015-11-03,True,2015-11-04T03:05:14Z,False,I,Municipal Ordinance,,Portland Scenic Views,,,ME,False,False
+21284,21284,General,G,,2015-11-03,True,2015-11-04T02:16:18Z,False,M,Mayor,,Lewiston,,,ME,False,False
+21285,21285,General,G,,2015-11-03,True,2015-11-04T02:56:05Z,False,M,Mayor,,Portland,,,ME,False,False
+20698,20698,Special General,G,,2015-11-03,True,2015-11-04T03:47:54Z,False,Y,State House,,District 19,19,,ME,False,False
+20724,20724,Special General,G,,2015-11-03,True,2015-11-04T02:28:34Z,False,Y,State House,,District 23,23,,ME,False,False
+27145,27145,General,G,,2015-11-03,True,2015-11-04T19:23:00Z,False,0,Public Service Comm,,Central,,,MS,False,False
+27146,27146,General,G,,2015-11-03,True,2015-11-04T20:05:58Z,False,0,Public Service Comm,,Northern,,,MS,False,False
+27147,27147,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,0,Public Service Comm,,Southern,,,MS,False,False
+27148,27148,General,G,,2015-11-03,True,2015-11-04T19:23:00Z,False,0,Transportation Comm,,Central,,,MS,False,False
+27149,27149,General,G,,2015-11-03,True,2015-11-04T20:05:58Z,False,0,Transportation Comm,,Northern,,,MS,False,False
+27150,27150,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,0,Transportation Comm,,Southern,,,MS,False,False
+25008,25008,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,A,Attorney General,,,,,MS,False,False
+25014,25014,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,F,Agriculture Commissioner,,,,,MS,False,False
+25002,25002,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,True,G,Governor,,,,,MS,False,False
+27165,27165,General,G,Education Funding,2015-11-03,True,2015-11-04T20:05:58Z,False,I,Amendment,,Education Funding,,,MS,False,False
+27166,27166,General,G,EducationFundAlt,2015-11-03,True,2015-11-04T20:05:58Z,False,I,Amendment,,EducationFundingAlternative,,,MS,False,False
+25016,25016,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,J,Insurance Commissioner,,,,,MS,False,True
+25003,25003,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,L,Lieutenant Governor,,,,,MS,False,False
+25006,25006,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,R,Secretary of State,,,,,MS,False,False
+25011,25011,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,T,Treasurer,,,,,MS,False,False
+25013,25013,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,U,Auditor,,,,,MS,False,False
+25095,25095,General,G,,2015-11-03,True,2015-11-04T05:40:53Z,False,Y,State House,,District 1,1,,MS,False,False
+25102,25102,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 8,8,,MS,False,True
+25108,25108,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 14,14,,MS,False,True
+25111,25111,General,G,,2015-11-03,True,2015-11-04T03:51:24Z,False,Y,State House,,District 17,17,,MS,False,False
+25113,25113,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 18,18,,MS,False,True
+25114,25114,General,G,,2015-11-03,True,2015-11-04T16:34:53Z,False,Y,State House,,District 19,19,,MS,False,False
+25115,25115,General,G,,2015-11-03,True,2015-11-04T19:50:30Z,False,Y,State House,,District 20,20,,MS,False,False
+25118,25118,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 22,22,,MS,False,True
+25123,25123,General,G,,2015-11-03,True,2015-11-04T05:34:38Z,False,Y,State House,,District 27,27,,MS,False,False
+25132,25132,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 34,34,,MS,False,True
+25157,25157,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 55,55,,MS,False,True
+25160,25160,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 56,56,,MS,False,True
+25163,25163,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 58,58,,MS,False,True
+25165,25165,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 59,59,,MS,False,True
+25167,25167,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 61,61,,MS,False,True
+25171,25171,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 63,63,,MS,False,True
+25173,25173,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 64,64,,MS,False,True
+25175,25175,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 65,65,,MS,False,True
+25181,25181,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 69,69,,MS,False,True
+25190,25190,General,G,,2015-11-03,True,2015-11-04T19:23:00Z,False,Y,State House,,District 75,75,,MS,False,False
+25193,25193,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 77,77,,MS,False,True
+25199,25199,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 82,82,,MS,False,True
+25201,25201,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 84,84,,MS,False,True
+25204,25204,General,G,,2015-11-03,True,2015-11-04T05:25:08Z,False,Y,State House,,District 86,86,,MS,False,False
+25206,25206,General,G,,2015-11-03,True,2015-11-04T05:06:30Z,False,Y,State House,,District 87,87,,MS,False,False
+25213,25213,General,G,,2015-11-03,True,2015-11-04T06:06:06Z,False,Y,State House,,District 93,93,,MS,False,False
+25222,25222,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 101,101,,MS,False,True
+25227,25227,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,Y,State House,,District 105,105,,MS,False,False
+25232,25232,General,G,,2015-11-03,True,2015-11-04T16:50:18Z,False,Y,State House,,District 109,109,,MS,False,False
+25234,25234,General,G,,2015-11-03,True,2015-11-04T16:50:18Z,False,Y,State House,,District 111,111,,MS,False,False
+25244,25244,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 116,116,,MS,False,True
+25247,25247,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 118,118,,MS,False,True
+25248,25248,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 119,119,,MS,False,True
+25256,25256,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 15,15,,MS,False,True
+25259,25259,General,G,,2015-11-03,True,2015-11-04T19:23:00Z,False,Y,State House,,District 62,62,,MS,False,False
+25878,25878,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 4,4,,MS,False,True
+25915,25915,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 71,71,,MS,False,True
+26071,26071,General,G,,2015-11-03,True,2015-11-04T04:22:30Z,False,Y,State House,,District 2,2,,MS,False,False
+26072,26072,General,G,,2015-11-03,True,2015-11-04T04:31:50Z,False,Y,State House,,District 3,3,,MS,False,False
+26074,26074,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 5,5,,MS,False,True
+26076,26076,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 7,7,,MS,False,True
+26078,26078,General,G,,2015-11-03,True,2015-11-04T08:08:07Z,False,Y,State House,,District 9,9,,MS,False,False
+26079,26079,General,G,,2015-11-03,True,2015-11-04T19:01:35Z,False,Y,State House,,District 10,10,,MS,False,False
+26080,26080,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 11,11,,MS,False,True
+26081,26081,General,G,,2015-11-03,True,2015-11-04T19:04:39Z,False,Y,State House,,District 12,12,,MS,False,False
+26082,26082,General,G,,2015-11-03,True,2015-11-04T19:04:39Z,False,Y,State House,,District 13,13,,MS,False,False
+26090,26090,General,G,,2015-11-03,True,2015-11-04T16:34:53Z,False,Y,State House,,District 21,21,,MS,False,False
+26092,26092,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 23,23,,MS,False,True
+26093,26093,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 24,24,,MS,False,True
+26094,26094,General,G,,2015-11-03,True,2015-11-04T03:13:31Z,False,Y,State House,,District 25,25,,MS,False,False
+26097,26097,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 28,28,,MS,False,True
+26098,26098,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 29,29,,MS,False,True
+26100,26100,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 31,31,,MS,False,True
+26101,26101,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 32,32,,MS,False,True
+26102,26102,General,G,,2015-11-03,True,2015-11-04T06:48:56Z,False,Y,State House,,District 33,33,,MS,False,False
+26105,26105,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 36,36,,MS,False,True
+26106,26106,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 37,37,,MS,False,True
+26107,26107,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 38,38,,MS,False,True
+26108,26108,General,G,,2015-11-03,True,2015-11-04T19:50:30Z,False,Y,State House,,District 39,39,,MS,False,False
+26109,26109,General,G,,2015-11-03,True,2015-11-04T03:07:17Z,False,Y,State House,,District 40,40,,MS,False,False
+26110,26110,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 41,41,,MS,False,True
+26111,26111,General,G,,2015-11-03,True,2015-11-04T20:05:58Z,False,Y,State House,,District 42,42,,MS,False,False
+26113,26113,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 44,44,,MS,False,True
+26114,26114,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 45,45,,MS,False,True
+26115,26115,General,G,,2015-11-03,True,2015-11-04T17:14:40Z,False,Y,State House,,District 46,46,,MS,False,False
+26116,26116,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 47,47,,MS,False,True
+26117,26117,General,G,,2015-11-03,True,2015-11-04T17:14:40Z,False,Y,State House,,District 48,48,,MS,False,False
+26118,26118,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 49,49,,MS,False,True
+26119,26119,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 50,50,,MS,False,True
+26120,26120,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 51,51,,MS,False,True
+26122,26122,General,G,,2015-11-03,True,2015-11-04T18:40:08Z,False,Y,State House,,District 53,53,,MS,False,False
+26123,26123,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 54,54,,MS,False,True
+26126,26126,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 57,57,,MS,False,True
+26135,26135,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 66,66,,MS,False,True
+26136,26136,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 67,67,,MS,False,True
+26137,26137,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 68,68,,MS,False,True
+26138,26138,General,G,,2015-11-03,True,2015-11-04T05:44:02Z,False,Y,State House,,District 70,70,,MS,False,False
+26140,26140,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 72,72,,MS,False,True
+26141,26141,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 73,73,,MS,False,True
+26142,26142,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 74,74,,MS,False,True
+26146,26146,General,G,,2015-11-03,True,2015-11-04T05:37:43Z,False,Y,State House,,District 78,78,,MS,False,False
+26147,26147,General,G,,2015-11-03,True,2015-11-04T18:12:37Z,False,Y,State House,,District 79,79,,MS,False,False
+26148,26148,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 80,80,,MS,False,True
+26149,26149,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 81,81,,MS,False,True
+26151,26151,General,G,,2015-11-03,True,2015-11-04T05:15:48Z,False,Y,State House,,District 83,83,,MS,False,False
+26153,26153,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 85,85,,MS,False,True
+26156,26156,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 88,88,,MS,False,True
+26157,26157,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 89,89,,MS,False,True
+26158,26158,General,G,,2015-11-03,True,2015-11-04T19:59:48Z,False,Y,State House,,District 90,90,,MS,False,False
+26159,26159,General,G,,2015-11-03,True,2015-11-04T18:40:08Z,False,Y,State House,,District 91,91,,MS,False,False
+26160,26160,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 92,92,,MS,False,True
+26162,26162,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 94,94,,MS,False,True
+26163,26163,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 95,95,,MS,False,True
+26164,26164,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 96,96,,MS,False,True
+26165,26165,General,G,,2015-11-03,True,2015-11-04T06:18:19Z,False,Y,State House,,District 97,97,,MS,False,False
+26166,26166,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 98,98,,MS,False,True
+26168,26168,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 100,100,,MS,False,True
+26170,26170,General,G,,2015-11-03,True,2015-11-04T18:15:41Z,False,Y,State House,,District 102,102,,MS,False,False
+26171,26171,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 103,103,,MS,False,True
+26172,26172,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 104,104,,MS,False,True
+26174,26174,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 106,106,,MS,False,True
+26175,26175,General,G,,2015-11-03,True,2015-11-04T05:28:19Z,False,Y,State House,,District 107,107,,MS,False,False
+26176,26176,General,G,,2015-11-03,True,2015-11-04T05:31:33Z,False,Y,State House,,District 108,108,,MS,False,False
+26178,26178,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 110,110,,MS,False,True
+26180,26180,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 112,112,,MS,False,True
+26181,26181,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 113,113,,MS,False,True
+26182,26182,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 114,114,,MS,False,True
+26185,26185,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 117,117,,MS,False,True
+26187,26187,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 120,120,,MS,False,True
+26188,26188,General,G,,2015-11-03,True,2015-11-04T03:38:38Z,False,Y,State House,,District 121,121,,MS,False,False
+26189,26189,General,G,,2015-11-03,True,2015-11-04T03:13:31Z,False,Y,State House,,District 122,122,,MS,False,False
+26220,26220,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 6,6,,MS,False,True
+26235,26235,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 26,26,,MS,False,True
+26257,26257,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 52,52,,MS,False,True
+26260,26260,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 60,60,,MS,False,True
+26266,26266,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 76,76,,MS,False,True
+26291,26291,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 115,115,,MS,False,True
+26354,26354,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 30,30,,MS,False,True
+26526,26526,General,G,,2015-11-03,True,2015-11-04T20:05:58Z,False,Y,State House,,District 35,35,,MS,False,False
+26549,26549,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 99,99,,MS,False,True
+26683,26683,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Y,State House,,District 16,16,,MS,False,True
+26686,26686,General,G,,2015-11-03,True,2015-11-04T20:05:58Z,False,Y,State House,,District 43,43,,MS,False,False
+25025,25025,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 1,1,,MS,False,True
+25037,25037,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 10,10,,MS,False,True
+25038,25038,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 11,11,,MS,False,True
+25041,25041,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 12,12,,MS,False,True
+25042,25042,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 13,13,,MS,False,True
+25043,25043,General,G,,2015-11-03,True,2015-11-04T17:14:40Z,False,Z,State Senate,,District 14,14,,MS,False,False
+25044,25044,General,G,,2015-11-03,True,2015-11-04T05:06:30Z,False,Z,State Senate,,District 15,15,,MS,False,False
+25048,25048,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 19,19,,MS,False,True
+25052,25052,General,G,,2015-11-03,True,2015-11-04T04:56:51Z,False,Z,State Senate,,District 22,22,,MS,False,False
+25053,25053,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 23,23,,MS,False,True
+25057,25057,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 25,25,,MS,False,True
+25061,25061,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 28,28,,MS,False,True
+25062,25062,General,G,,2015-11-03,True,2015-11-04T05:50:23Z,False,Z,State Senate,,District 29,29,,MS,False,False
+25063,25063,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 30,30,,MS,False,True
+25065,25065,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 31,31,,MS,False,True
+25066,25066,General,G,,2015-11-03,True,2015-11-04T20:05:58Z,False,Z,State Senate,,District 32,32,,MS,False,False
+25067,25067,General,G,,2015-11-03,True,2015-11-04T05:53:37Z,False,Z,State Senate,,District 33,33,,MS,False,False
+25075,25075,General,G,,2015-11-03,True,2015-11-04T15:55:04Z,False,Z,State Senate,,District 39,39,,MS,False,False
+25079,25079,General,G,,2015-11-03,True,2015-11-04T05:15:48Z,False,Z,State Senate,,District 42,42,,MS,False,False
+25083,25083,General,G,,2015-11-03,True,2015-11-04T20:15:07Z,False,Z,State Senate,,District 45,45,,MS,False,False
+25084,25084,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 46,46,,MS,False,True
+25094,25094,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 52,52,,MS,False,True
+25865,25865,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 8,8,,MS,False,True
+25869,25869,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 35,35,,MS,False,True
+25871,25871,General,G,,2015-11-03,True,2015-11-04T05:22:00Z,False,Z,State Senate,,District 43,43,,MS,False,False
+26193,26193,General,G,,2015-11-03,True,2015-11-04T19:50:30Z,False,Z,State Senate,,District 7,7,,MS,False,False
+26400,26400,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 2,2,,MS,False,True
+26402,26402,General,G,,2015-11-03,True,2015-11-04T04:53:44Z,False,Z,State Senate,,District 3,3,,MS,False,False
+26403,26403,General,G,,2015-11-03,True,2015-11-04T04:35:01Z,False,Z,State Senate,,District 4,4,,MS,False,False
+26404,26404,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 5,5,,MS,False,True
+26408,26408,General,G,,2015-11-03,True,2015-11-04T19:01:35Z,False,Z,State Senate,,District 9,9,,MS,False,False
+26414,26414,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 16,16,,MS,False,True
+26415,26415,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 17,17,,MS,False,True
+26416,26416,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 18,18,,MS,False,True
+26419,26419,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 20,20,,MS,False,True
+26420,26420,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 21,21,,MS,False,True
+26423,26423,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 24,24,,MS,False,True
+26425,26425,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 26,26,,MS,False,True
+26426,26426,General,G,,2015-11-03,True,2015-11-04T05:50:23Z,False,Z,State Senate,,District 27,27,,MS,False,False
+26433,26433,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 34,34,,MS,False,True
+26435,26435,General,G,,2015-11-03,True,2015-11-04T06:18:19Z,False,Z,State Senate,,District 37,37,,MS,False,False
+26436,26436,General,G,,2015-11-03,True,2015-11-04T19:56:40Z,False,Z,State Senate,,District 38,38,,MS,False,False
+26438,26438,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 40,40,,MS,False,True
+26439,26439,General,G,,2015-11-03,True,2015-11-04T18:37:03Z,False,Z,State Senate,,District 41,41,,MS,False,False
+26440,26440,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 44,44,,MS,False,True
+26443,26443,General,G,,2015-11-03,True,2015-11-04T16:47:13Z,False,Z,State Senate,,District 47,47,,MS,False,False
+26444,26444,General,G,,2015-11-03,True,2015-11-04T03:41:49Z,False,Z,State Senate,,District 48,48,,MS,False,False
+26445,26445,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 49,49,,MS,False,True
+26446,26446,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 50,50,,MS,False,True
+26447,26447,General,G,,2015-11-03,True,2015-11-04T16:50:18Z,False,Z,State Senate,,District 51,51,,MS,False,False
+26536,26536,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 36,36,,MS,False,True
+27103,27103,General,G,,2015-11-03,True,2015-11-04T01:03:53Z,False,Z,State Senate,,District 6,6,,MS,False,True
+31115,31115,General,G,,2015-11-03,True,2015-11-04T05:04:22Z,False,Y,State Assembly,,District 1,1,,NJ,False,False
+31117,31117,General,G,,2015-11-03,True,2015-11-04T05:40:48Z,False,Y,State Assembly,,District 2,2,,NJ,False,False
+31119,31119,General,G,,2015-11-03,True,2015-11-04T03:32:10Z,False,Y,State Assembly,,District 3,3,,NJ,False,False
+31125,31125,General,G,,2015-11-03,True,2015-11-04T17:08:56Z,False,Y,State Assembly,,District 6,6,,NJ,False,False
+31127,31127,General,G,,2015-11-03,True,2015-11-04T05:46:52Z,False,Y,State Assembly,,District 7,7,,NJ,False,False
+31131,31131,General,G,,2015-11-03,True,2015-11-04T17:12:00Z,False,Y,State Assembly,,District 9,9,,NJ,False,False
+31133,31133,General,G,,2015-11-03,True,2015-11-04T02:48:01Z,False,Y,State Assembly,,District 10,10,,NJ,False,False
+31135,31135,General,G,,2015-11-03,True,2015-11-04T04:02:58Z,False,Y,State Assembly,,District 11,11,,NJ,False,False
+31137,31137,General,G,,2015-11-03,True,2015-11-04T17:12:00Z,False,Y,State Assembly,,District 12,12,,NJ,False,False
+31139,31139,General,G,,2015-11-03,True,2015-11-04T16:47:44Z,False,Y,State Assembly,,District 13,13,,NJ,False,False
+31141,31141,General,G,,2015-11-03,True,2015-11-04T05:10:27Z,False,Y,State Assembly,,District 14,14,,NJ,False,False
+31143,31143,General,G,,2015-11-03,True,2015-11-04T05:10:27Z,False,Y,State Assembly,,District 15,15,,NJ,False,False
+31147,31147,General,G,,2015-11-03,True,2015-11-04T16:05:10Z,False,Y,State Assembly,,District 17,17,,NJ,False,False
+31151,31151,General,G,,2015-11-03,True,2015-11-04T02:41:42Z,False,Y,State Assembly,,District 19,19,,NJ,False,False
+31153,31153,General,G,,2015-11-03,True,2015-11-04T02:41:42Z,False,Y,State Assembly,,District 20,20,,NJ,False,False
+31155,31155,General,G,,2015-11-03,True,2015-11-04T16:44:40Z,False,Y,State Assembly,,District 21,21,,NJ,False,False
+31157,31157,General,G,,2015-11-03,True,2015-11-04T16:08:14Z,False,Y,State Assembly,,District 22,22,,NJ,False,False
+31159,31159,General,G,,2015-11-03,True,2015-11-04T16:11:18Z,False,Y,State Assembly,,District 23,23,,NJ,False,False
+31161,31161,General,G,,2015-11-03,True,2015-11-04T18:27:40Z,False,Y,State Assembly,,District 24,24,,NJ,False,False
+31163,31163,General,G,,2015-11-03,True,2015-11-04T18:27:40Z,False,Y,State Assembly,,District 25,25,,NJ,False,False
+31167,31167,General,G,,2015-11-03,True,2015-11-04T03:06:55Z,False,Y,State Assembly,,District 27,27,,NJ,False,False
+31169,31169,General,G,,2015-11-03,True,2015-11-04T03:03:46Z,False,Y,State Assembly,,District 28,28,,NJ,False,False
+31171,31171,General,G,,2015-11-03,True,2015-11-04T02:51:10Z,False,Y,State Assembly,,District 29,29,,NJ,False,False
+31173,31173,General,G,,2015-11-03,True,2015-11-04T16:50:48Z,False,Y,State Assembly,,District 30,30,,NJ,False,False
+31177,31177,General,G,,2015-11-03,True,2015-11-04T17:57:18Z,False,Y,State Assembly,,District 32,32,,NJ,False,False
+31179,31179,General,G,,2015-11-03,True,2015-11-04T04:49:09Z,False,Y,State Assembly,,District 33,33,,NJ,False,False
+31181,31181,General,G,,2015-11-03,True,2015-11-04T04:02:58Z,False,Y,State Assembly,,District 34,34,,NJ,False,False
+31183,31183,General,G,,2015-11-03,True,2015-11-04T17:57:18Z,False,Y,State Assembly,,District 35,35,,NJ,False,False
+31185,31185,General,G,,2015-11-03,True,2015-11-04T18:00:23Z,False,Y,State Assembly,,District 36,36,,NJ,False,False
+31187,31187,General,G,,2015-11-03,True,2015-11-04T04:21:22Z,False,Y,State Assembly,,District 37,37,,NJ,False,False
+31189,31189,General,G,,2015-11-03,True,2015-11-04T18:03:26Z,False,Y,State Assembly,,District 38,38,,NJ,False,False
+31191,31191,General,G,,2015-11-03,True,2015-11-04T18:03:26Z,False,Y,State Assembly,,District 39,39,,NJ,False,False
+31193,31193,General,G,,2015-11-03,True,2015-11-04T18:06:30Z,False,Y,State Assembly,,District 40,40,,NJ,False,False
+31297,31297,General,G,,2015-11-03,True,2015-11-04T01:03:09Z,False,Y,State Assembly,,District 8,8,,NJ,False,True
+31298,31298,General,G,,2015-11-03,True,2015-11-04T03:28:56Z,False,Y,State Assembly,,District 18,18,,NJ,False,False
+31608,31608,General,G,,2015-11-03,True,2015-11-04T16:29:30Z,False,Y,State Assembly,,District 5,5,,NJ,False,False
+31611,31611,General,G,,2015-11-03,True,2015-11-04T04:46:05Z,False,Y,State Assembly,,District 31,31,,NJ,False,False
+31638,31638,General,G,,2015-11-03,True,2015-11-04T16:26:26Z,False,Y,State Assembly,,District 4,4,,NJ,False,False
+31639,31639,General,G,,2015-11-03,True,2015-11-04T16:05:10Z,False,Y,State Assembly,,District 16,16,,NJ,False,False
+31640,31640,General,G,,2015-11-03,True,2015-11-04T16:47:44Z,False,Y,State Assembly,,District 26,26,,NJ,False,False
+31605,31605,General,G,,2015-11-03,True,2015-11-04T01:03:09Z,False,Z,State Senate,,District 5,5,,NJ,False,True
+35839,35839,General,G,Town,2015-11-03,True,2015-11-04T05:22:24Z,False,0,Supervisor,,Hempstead,,,NY,False,False
+35840,35840,General,G,Town,2015-11-03,True,2015-11-04T05:25:27Z,False,0,Supervisor,,Oyster Bay,,,NY,False,False
+37015,37015,General,G,,2015-11-03,True,2015-11-04T06:11:07Z,False,0,County Executive,,Suffolk,,,NY,False,False
+37018,37018,General,G,Town,2015-11-03,True,2015-11-04T05:25:27Z,False,0,Supervisor,,North Hempstead,,,NY,False,False
+37019,37019,General,G,Town,2015-11-03,True,2015-11-04T04:51:52Z,False,0,Supervisor,,Islip,,,NY,False,False
+37020,37020,General,G,,2015-11-03,True,2015-11-04T04:27:26Z,False,0,County Executive,,Onondaga,,,NY,False,False
+37043,37043,General,G,,2015-11-03,True,2015-11-04T04:24:24Z,False,0,County Executive,,Monroe,,,NY,False,False
+37046,37046,General,G,,2015-11-03,True,2015-11-04T06:11:07Z,False,0,County Executive,,Erie,,,NY,False,False
+37058,37058,General,G,,2015-11-03,True,2015-11-04T04:54:56Z,False,0,County Executive,,Albany,,,NY,False,False
+37692,37692,General,G,Town,2015-11-03,True,2015-11-04T06:11:07Z,False,0,Supervisor,,Brookhaven,,,NY,False,False
+37693,37693,General,G,Town,2015-11-03,True,2015-11-04T03:32:29Z,False,0,Supervisor,,East Hampton,,,NY,False,False
+37694,37694,General,G,Town,2015-11-03,True,2015-11-04T03:35:34Z,False,0,Supervisor,,Riverhead,,,NY,False,False
+37695,37695,General,G,Town,2015-11-03,True,2015-11-04T03:50:49Z,False,0,Supervisor,,Shelter Island,,,NY,False,False
+37696,37696,General,G,Town,2015-11-03,True,2015-11-04T03:50:49Z,False,0,Supervisor,,Southampton,,,NY,False,False
+37697,37697,General,G,Town,2015-11-03,True,2015-11-04T05:10:14Z,False,0,Supervisor,,Southold,,,NY,False,False
+37928,37928,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,0,County Executive,,Oneida,,,NY,False,True
+37945,37945,General,G,,2015-11-03,True,2015-11-04T05:04:08Z,False,0,County Executive,,Dutchess,,,NY,False,False
+38754,38754,General,G,City,2015-11-03,True,2015-11-04T15:46:45Z,False,0,Supervisor,,Harrison,,,NY,False,False
+39205,39205,General,G,Town,2015-11-03,True,2015-11-04T15:49:47Z,False,0,Supervisor,,Pound Ridge,,,NY,False,False
+39206,39206,General,G,Town,2015-11-03,True,2015-11-04T15:52:50Z,False,0,Supervisor,,Rye Town,,,NY,False,False
+39213,39213,General,G,Town,2015-11-03,True,2015-11-04T15:52:50Z,False,0,Supervisor,,Yorktown,,,NY,False,False
+39702,39702,General,G,Town,2015-11-03,True,2015-11-04T15:46:45Z,False,0,Supervisor,,Bedford,,,NY,False,False
+39704,39704,General,G,Town,2015-11-03,True,2015-11-04T15:49:47Z,False,0,Supervisor,,New Castle,,,NY,False,False
+39705,39705,General,G,Town,2015-11-03,True,2015-11-04T15:49:47Z,False,0,Supervisor,,Ossining,,,NY,False,False
+35486,35486,General,G,,2015-11-03,True,2015-11-04T05:43:44Z,False,D,District Attorney,,Nassau,,,NY,False,False
+40032,40032,General,G,,2015-11-03,True,2015-11-04T05:13:16Z,False,D,District Attorney,,Bronx,3,,NY,False,False
+40033,40033,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,D,District Attorney,,Queens,4,,NY,False,True
+40034,40034,General,G,,2015-11-03,True,2015-11-04T04:21:21Z,False,D,District Attorney,,Staten Island,5,,NY,False,False
+39254,39254,General,G,Manhattan,2015-11-03,True,2015-11-04T02:04:38Z,False,J,Supreme Court,,District 1,1,,NY,False,True
+39255,39255,General,G,Brooklyn,2015-11-03,True,2015-11-04T02:04:38Z,False,J,Supreme Court,,District 2,2,,NY,False,True
+39256,39256,General,G,Northern Suburbs,2015-11-03,True,2015-11-04T06:44:32Z,False,J,Supreme Court,,District 9,9,,NY,False,False
+39257,39257,General,G,Long Island,2015-11-03,True,2015-11-04T06:59:44Z,False,J,Supreme Court,,District 10,10,,NY,False,False
+39258,39258,General,G,Queens,2015-11-03,True,2015-11-04T05:46:47Z,False,J,Supreme Court,,District 11,11,,NY,False,False
+39259,39259,General,G,Bronx,2015-11-03,True,2015-11-04T05:13:16Z,False,J,Supreme Court,,District 12,12,,NY,False,False
+39364,39364,General,G,Capital Area,2015-11-03,True,2015-11-04T06:08:04Z,False,J,Supreme Court,,District 3,3,,NY,False,False
+39365,39365,General,G,Northland,2015-11-03,True,2015-11-04T17:41:57Z,False,J,Supreme Court,,District 4,4,,NY,False,False
+39366,39366,General,G,Lake Ontario Area,2015-11-03,True,2015-11-04T02:04:38Z,False,J,Supreme Court,,District 5,5,,NY,False,True
+39368,39368,General,G,Center State,2015-11-03,True,2015-11-04T06:35:26Z,False,J,Supreme Court,,District 7,7,,NY,False,False
+39369,39369,General,G,Western Counties,2015-11-03,True,2015-11-04T02:04:38Z,False,J,Supreme Court,,District 8,8,,NY,False,True
+33804,33804,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,K,Brooklyn Civil Court,,District 6,6,,NY,False,True
+34918,34918,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,K,Brooklyn Civil Court,,District 3,3,,NY,False,True
+34921,34921,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,K,Brooklyn Civil Court,,District 7,7,,NY,False,True
+36568,36568,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,K,Brooklyn Civil Court,,District 2,2,,NY,False,True
+37010,37010,General,G,,2015-11-03,True,2015-11-04T06:17:12Z,False,K,Brooklyn Civil Court,,Countywide,,,NY,False,False
+37008,37008,General,G,City,2015-11-03,True,2015-11-04T16:04:59Z,False,M,Mayor,,Yonkers,,,NY,False,False
+37059,37059,General,G,City,2015-11-03,True,2015-11-04T03:50:49Z,False,M,Mayor,,Utica,,,NY,False,False
+37699,37699,General,G,City,2015-11-03,True,2015-11-04T04:06:04Z,False,M,Mayor,,Glen Cove,,,NY,False,False
+37934,37934,General,G,City,2015-11-03,True,2015-11-04T16:08:02Z,False,M,Mayor,,Mt. Vernon,,,NY,False,False
+37935,37935,General,G,,2015-11-03,True,2015-11-04T16:08:02Z,False,M,Mayor,,Peekskill,,,NY,False,False
+39202,39202,General,G,,2015-11-03,True,2015-11-04T16:08:02Z,False,M,Mayor,,New Rochelle,,,NY,False,False
+39521,39521,General,G,Village,2015-11-03,True,2015-11-04T16:01:56Z,False,M,Mayor,,Mamaroneck,,,NY,False,False
+40028,40028,General,G,City,2015-11-03,True,2015-11-04T03:35:34Z,False,M,Mayor,,Rome,,,NY,False,False
+33056,33056,General,G,,2015-11-03,True,2015-11-04T04:36:35Z,False,N,City Council,,District 23,23,,NY,False,False
+36565,36565,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,N,City Council,,District 51,51,,NY,False,True
+33807,33807,General,G,,2015-11-03,True,2015-11-04T05:46:47Z,False,U,Queens Civil Court,,Countywide,,,NY,False,False
+34933,34933,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,U,Queens Civil Court,,District 3,3,,NY,False,True
+36572,36572,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,W,Manhattan Civil Court,,District 2,2,,NY,False,True
+36574,36574,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,W,Manhattan Civil Court,,District 8,8,,NY,False,True
+36576,36576,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,W,Manhattan Civil Court,,Countywide,,,NY,False,True
+35382,35382,General,G,,2015-11-03,True,2015-11-04T02:04:38Z,False,X,Bronx Civil Court,,Countywide,,,NY,False,True
+36695,36695,General,G,,2015-11-03,True,2015-11-04T05:07:11Z,False,Y,State Assembly,,District 29,29,,NY,False,False
+36711,36711,General,G,,2015-11-03,True,2015-11-04T05:16:19Z,False,Y,State Assembly,,District 46,46,,NY,False,False
+36794,36794,General,G,,2015-11-03,True,2015-11-04T04:27:26Z,False,Y,State Assembly,,District 128,128,,NY,False,False
+36630,36630,General,G,,2015-11-03,True,2015-11-04T06:11:07Z,False,Z,State Senate,,District 19,19,,NY,False,False
+36663,36663,General,G,,2015-11-03,True,2015-11-04T04:15:14Z,False,Z,State Senate,,District 52,52,,NY,False,False
+37544,37544,General,G,Bipartisan Redistricting,2015-11-03,True,2015-11-04T14:28:53Z,False,I,Issue,,1 - Create Redistricting Commiss,,,OH,False,False
+37545,37545,General,G,,2015-11-03,True,2015-11-04T14:28:53Z,False,I,Issue,,2 - Prohibit Market Monopolies,,,OH,False,False
+37546,37546,General,G,,2015-11-03,True,2015-11-04T14:28:53Z,False,I,Issue,,3 - Legalize Recreational Mariju,,,OH,False,False
+39917,39917,General,G,,2015-11-03,True,2015-11-04T16:17:19Z,False,0,Cmnwlth Ct,,Judge,,,PA,False,False
+40148,40148,General,G,,2015-11-03,True,2015-11-04T16:14:16Z,False,0,Supreme Court,,Justice,,,PA,False,False
+40149,40149,General,G,,2015-11-03,True,2015-11-04T16:17:19Z,False,0,Superior Court,,Judge,,,PA,False,False
+39642,39642,General,G,,2015-11-03,True,2015-11-04T15:41:03Z,False,M,Mayor,,Philadelphia,,,PA,False,False
+49601,49601,Ballot Issue,G,SJR - 1,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,1 - Increase Homestead Exemption,,,TX,False,False
+49602,49602,Ballot Issue,G,HJR - 75,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,2 - Survivor Tax Exemption,,,TX,False,False
+49603,49603,Ballot Issue,G,SJR - 52,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,3 - State Officer Residency,,,TX,False,False
+49604,49604,Ballot Issue,G,HJR - 73,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,4 - Sports Team Raffles,,,TX,False,False
+49605,49605,Ballot Issue,G,SJR - 17,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,5 - Private Road Construction,,,TX,False,False
+49606,49606,Ballot Issue,G,SJR - 22,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,6 - Right to Hunt,,,TX,False,False
+49607,49607,Ballot Issue,G,SJR - 5,2015-11-03,True,2015-11-04T17:38:25Z,False,I,Proposition,,7 - Fund NonToll Roads,,,TX,False,False
+49608,49608,Ballot Issue,G,Proposition 1,2015-11-03,True,2015-11-04T08:15:13Z,False,I,Municipal Ordinance,,Houston Equal Rights,,,TX,False,False
+46053,46053,Special General,G,,2015-11-03,True,2015-11-04T04:42:18Z,False,Y,State House,,District 118,118,,TX,False,False
+47120,47120,General,G,,2015-11-03,True,2015-11-04T02:48:11Z,False,Y,House of Delegates,,District 32,32,,VA,False,False
+47121,47121,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 1,1,,VA,False,True
+47138,47138,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 23,23,,VA,False,True
+47143,47143,General,G,,2015-11-03,True,2015-11-04T02:48:11Z,False,Y,House of Delegates,,District 33,33,,VA,False,False
+47145,47145,General,G,,2015-11-03,True,2015-11-04T03:40:02Z,False,Y,House of Delegates,,District 34,34,,VA,False,False
+47147,47147,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 36,36,,VA,False,True
+47148,47148,General,G,,2015-11-03,True,2015-11-04T02:54:17Z,False,Y,House of Delegates,,District 37,37,,VA,False,False
+47149,47149,General,G,,2015-11-03,True,2015-11-04T03:06:29Z,False,Y,House of Delegates,,District 38,38,,VA,False,False
+47150,47150,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 39,39,,VA,False,True
+47151,47151,General,G,,2015-11-03,True,2015-11-04T04:37:50Z,False,Y,House of Delegates,,District 40,40,,VA,False,False
+47153,47153,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 41,41,,VA,False,True
+47154,47154,General,G,,2015-11-03,True,2015-11-04T03:52:12Z,False,Y,House of Delegates,,District 42,42,,VA,False,False
+47156,47156,General,G,,2015-11-03,True,2015-11-04T03:15:39Z,False,Y,House of Delegates,,District 43,43,,VA,False,False
+47157,47157,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 44,44,,VA,False,True
+47159,47159,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 45,45,,VA,False,True
+47160,47160,General,G,,2015-11-03,True,2015-11-04T03:06:29Z,False,Y,House of Delegates,,District 46,46,,VA,False,False
+47161,47161,General,G,,2015-11-03,True,2015-11-04T02:23:49Z,False,Y,House of Delegates,,District 47,47,,VA,False,False
+47163,47163,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 48,48,,VA,False,True
+47165,47165,General,G,,2015-11-03,True,2015-11-04T04:25:41Z,False,Y,House of Delegates,,District 50,50,,VA,False,False
+47166,47166,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 51,51,,VA,False,True
+47168,47168,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 53,53,,VA,False,True
+47169,47169,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 54,54,,VA,False,True
+47170,47170,General,G,,2015-11-03,True,2015-11-04T04:22:38Z,False,Y,House of Delegates,,District 55,55,,VA,False,False
+47171,47171,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 56,56,,VA,False,True
+47172,47172,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 57,57,,VA,False,True
+47173,47173,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 58,58,,VA,False,True
+47174,47174,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 59,59,,VA,False,True
+47175,47175,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 60,60,,VA,False,True
+47176,47176,General,G,,2015-11-03,True,2015-11-04T02:42:06Z,False,Y,House of Delegates,,District 61,61,,VA,False,False
+47177,47177,General,G,,2015-11-03,True,2015-11-04T03:21:45Z,False,Y,House of Delegates,,District 62,62,,VA,False,False
+47178,47178,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 63,63,,VA,False,True
+47191,47191,General,G,,2015-11-03,True,2015-11-04T03:36:59Z,False,Y,House of Delegates,,District 74,74,,VA,False,False
+47209,47209,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 89,89,,VA,False,True
+47325,47325,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 35,35,,VA,False,True
+47373,47373,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 64,64,,VA,False,True
+47374,47374,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 65,65,,VA,False,True
+47375,47375,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 66,66,,VA,False,True
+47377,47377,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 67,67,,VA,False,True
+47379,47379,General,G,,2015-11-03,True,2015-11-04T03:18:42Z,False,Y,House of Delegates,,District 68,68,,VA,False,False
+47380,47380,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 69,69,,VA,False,True
+47381,47381,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 70,70,,VA,False,True
+47382,47382,General,G,,2015-11-03,True,2015-11-04T03:18:42Z,False,Y,House of Delegates,,District 71,71,,VA,False,False
+47383,47383,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 73,73,,VA,False,True
+47384,47384,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 75,75,,VA,False,True
+47385,47385,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 76,76,,VA,False,True
+47386,47386,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 77,77,,VA,False,True
+47387,47387,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 78,78,,VA,False,True
+47388,47388,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 79,79,,VA,False,True
+47389,47389,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 80,80,,VA,False,True
+47390,47390,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Y,House of Delegates,,District 81,81,,VA,False,False
+47391,47391,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Y,House of Delegates,,District 82,82,,VA,False,False
+47392,47392,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 83,83,,VA,False,True
+47393,47393,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 84,84,,VA,False,True
+47394,47394,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 85,85,,VA,False,True
+47395,47395,General,G,,2015-11-03,True,2015-11-04T03:15:39Z,False,Y,House of Delegates,,District 86,86,,VA,False,False
+47396,47396,General,G,,2015-11-03,True,2015-11-04T04:25:41Z,False,Y,House of Delegates,,District 87,87,,VA,False,False
+47397,47397,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 88,88,,VA,False,True
+47398,47398,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 90,90,,VA,False,True
+47401,47401,General,G,,2015-11-03,True,2015-11-04T02:45:09Z,False,Y,House of Delegates,,District 93,93,,VA,False,False
+47402,47402,General,G,,2015-11-03,True,2015-11-04T01:34:41Z,False,Y,House of Delegates,,District 94,94,,VA,False,False
+47404,47404,General,G,,2015-11-03,True,2015-11-04T02:54:17Z,False,Y,House of Delegates,,District 96,96,,VA,False,False
+47405,47405,General,G,,2015-11-03,True,2015-11-04T04:22:38Z,False,Y,House of Delegates,,District 97,97,,VA,False,False
+47406,47406,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 98,98,,VA,False,True
+47407,47407,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 99,99,,VA,False,True
+47409,47409,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 72,72,,VA,False,True
+47640,47640,General,G,,2015-11-03,True,2015-11-04T04:25:41Z,False,Y,House of Delegates,,District 31,31,,VA,False,False
+47681,47681,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 11,11,,VA,False,True
+47682,47682,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 30,30,,VA,False,True
+47683,47683,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 49,49,,VA,False,True
+47684,47684,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 52,52,,VA,False,True
+47685,47685,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 91,91,,VA,False,True
+47686,47686,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 92,92,,VA,False,True
+47687,47687,General,G,,2015-11-03,True,2015-11-04T01:53:04Z,False,Y,House of Delegates,,District 95,95,,VA,False,False
+47688,47688,General,G,,2015-11-03,True,2015-11-04T02:54:17Z,False,Y,House of Delegates,,District 100,100,,VA,False,False
+47831,47831,General,G,,2015-11-03,True,2015-11-04T04:25:41Z,False,Y,House of Delegates,,District 2,2,,VA,False,False
+47832,47832,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 3,3,,VA,False,True
+47833,47833,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 4,4,,VA,False,True
+47834,47834,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 5,5,,VA,False,True
+47835,47835,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 6,6,,VA,False,True
+47837,47837,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 7,7,,VA,False,True
+47838,47838,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 8,8,,VA,False,True
+47839,47839,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 9,9,,VA,False,True
+47840,47840,General,G,,2015-11-03,True,2015-11-04T02:48:11Z,False,Y,House of Delegates,,District 10,10,,VA,False,False
+47843,47843,General,G,,2015-11-03,True,2015-11-04T16:23:00Z,False,Y,House of Delegates,,District 12,12,,VA,False,False
+47844,47844,General,G,,2015-11-03,True,2015-11-04T04:28:44Z,False,Y,House of Delegates,,District 13,13,,VA,False,False
+47845,47845,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 14,14,,VA,False,True
+47846,47846,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 15,15,,VA,False,True
+47847,47847,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 16,16,,VA,False,True
+47848,47848,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 17,17,,VA,False,True
+47849,47849,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 18,18,,VA,False,True
+47850,47850,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 19,19,,VA,False,True
+47852,47852,General,G,,2015-11-03,True,2015-11-04T03:24:48Z,False,Y,House of Delegates,,District 20,20,,VA,False,False
+47853,47853,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Y,House of Delegates,,District 21,21,,VA,False,False
+47854,47854,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 22,22,,VA,False,True
+47855,47855,General,G,,2015-11-03,True,2015-11-04T03:58:18Z,False,Y,House of Delegates,,District 24,24,,VA,False,False
+47856,47856,General,G,,2015-11-03,True,2015-11-04T03:24:48Z,False,Y,House of Delegates,,District 25,25,,VA,False,False
+47857,47857,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 26,26,,VA,False,True
+47858,47858,General,G,,2015-11-03,True,2015-11-04T02:08:26Z,False,Y,House of Delegates,,District 27,27,,VA,False,False
+47859,47859,General,G,,2015-11-03,True,2015-11-04T02:23:49Z,False,Y,House of Delegates,,District 28,28,,VA,False,False
+47860,47860,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Y,House of Delegates,,District 29,29,,VA,False,True
+47329,47329,General,G,,2015-11-03,True,2015-11-04T02:54:17Z,False,Z,State Senate,,District 1,1,,VA,False,False
+47332,47332,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 4,4,,VA,False,True
+47333,47333,General,G,,2015-11-03,True,2015-11-04T04:01:21Z,False,Z,State Senate,,District 12,12,,VA,False,False
+47334,47334,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 5,5,,VA,False,True
+47336,47336,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Z,State Senate,,District 6,6,,VA,False,False
+47337,47337,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Z,State Senate,,District 7,7,,VA,False,False
+47338,47338,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Z,State Senate,,District 8,8,,VA,False,False
+47339,47339,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 9,9,,VA,False,True
+47340,47340,General,G,,2015-11-03,True,2015-11-04T03:30:53Z,False,Z,State Senate,,District 10,10,,VA,False,False
+47341,47341,General,G,,2015-11-03,True,2015-11-04T02:23:49Z,False,Z,State Senate,,District 11,11,,VA,False,False
+47342,47342,General,G,,2015-11-03,True,2015-11-04T05:35:26Z,False,Z,State Senate,,District 13,13,,VA,False,False
+47343,47343,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 14,14,,VA,False,True
+47344,47344,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 15,15,,VA,False,True
+47345,47345,General,G,,2015-11-03,True,2015-11-04T04:46:58Z,False,Z,State Senate,,District 16,16,,VA,False,False
+47346,47346,General,G,,2015-11-03,True,2015-11-04T02:54:17Z,False,Z,State Senate,,District 17,17,,VA,False,False
+47347,47347,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 18,18,,VA,False,True
+47348,47348,General,G,,2015-11-03,True,2015-11-04T02:45:09Z,False,Z,State Senate,,District 19,19,,VA,False,False
+47349,47349,General,G,,2015-11-03,True,2015-11-04T02:29:55Z,False,Z,State Senate,,District 20,20,,VA,False,False
+47350,47350,General,G,,2015-11-03,True,2015-11-04T05:17:15Z,False,Z,State Senate,,District 21,21,,VA,False,False
+47351,47351,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 22,22,,VA,False,True
+47352,47352,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 23,23,,VA,False,True
+47353,47353,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 24,24,,VA,False,True
+47354,47354,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 25,25,,VA,False,True
+47355,47355,General,G,,2015-11-03,True,2015-11-04T04:22:38Z,False,Z,State Senate,,District 26,26,,VA,False,False
+47358,47358,General,G,,2015-11-03,True,2015-11-04T04:37:50Z,False,Z,State Senate,,District 29,29,,VA,False,False
+47360,47360,General,G,,2015-11-03,True,2015-11-04T03:18:42Z,False,Z,State Senate,,District 30,30,,VA,False,False
+47361,47361,General,G,,2015-11-03,True,2015-11-04T03:06:29Z,False,Z,State Senate,,District 31,31,,VA,False,False
+47363,47363,General,G,,2015-11-03,True,2015-11-04T04:31:46Z,False,Z,State Senate,,District 33,33,,VA,False,False
+47365,47365,General,G,,2015-11-03,True,2015-11-04T03:09:33Z,False,Z,State Senate,,District 35,35,,VA,False,False
+47366,47366,General,G,,2015-11-03,True,2015-11-04T04:25:41Z,False,Z,State Senate,,District 36,36,,VA,False,False
+47367,47367,General,G,,2015-11-03,True,2015-11-04T03:12:37Z,False,Z,State Senate,,District 37,37,,VA,False,False
+47368,47368,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 38,38,,VA,False,True
+47369,47369,General,G,,2015-11-03,True,2015-11-04T04:25:41Z,False,Z,State Senate,,District 39,39,,VA,False,False
+47370,47370,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 40,40,,VA,False,True
+47689,47689,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 2,2,,VA,False,True
+47690,47690,General,G,,2015-11-03,True,2015-11-04T16:41:11Z,False,Z,State Senate,,District 3,3,,VA,False,False
+47691,47691,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 27,27,,VA,False,True
+47692,47692,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 28,28,,VA,False,True
+47693,47693,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 32,32,,VA,False,True
+47694,47694,General,G,,2015-11-03,True,2015-11-04T00:02:41Z,False,Z,State Senate,,District 34,34,,VA,False,True
+49395,49395,Ballot Issue,G,,2015-11-03,True,2015-11-07T01:18:35Z,False,I,Initiative,,1366-State Tax,,,WA,False,False
+49397,49397,Ballot Issue,G,,2015-11-03,True,2015-11-06T03:09:29Z,False,I,Initiative,,1401-Animal Trafficking,,,WA,False,False
