@@ -1,5 +1,6 @@
 var fs = require("fs");
 var parser = require('subtitles-parser');
+var vttParser=require('./vtt-composer')
 var timecodes = require('node-timecodes');
 /**
 * module to parse elex json and convert into srt subtitles-parser data structure (array of segments).
@@ -26,22 +27,43 @@ console.log("parsed json")
 //TODO: add support for CSV?
 
 /**
-* convert Elex json into srt data structure and write to file
+* convert Elex json into vtt data structure and write to file
 */
+// elexCrawler.convert(dataJson,function(resp){
+// 	writeVTTile(resp);
+// });
 
+/**
+* convert Elex json into text data structure and write to file
+*/
 elexCrawler.convert(dataJson,function(resp){
-	writeSRTFile(resp);
+	writeTextFile(resp);
 });
 
 
 /**
-* Write to SRT
+* Write to VTT File
 */
-function writeSRTFile(srtDataStructure){
-	var dataSrt = parser.toSrt(srtDataStructure);
-	// console.log(dataSrt);
+// function writeVTTile(vttDataStructure){
+// 	// var dataSrt = parser.toSrt(vttDataStructure);
+// 	var dataVTT = vttParser.toVtt(vttDataStructure);
 
-	fs.writeFile(fileName+".srt", dataSrt, "utf8", function(){
-		console.log("finished writing srt file: "+fileName+".srt");
-	})
+// 	fs.writeFile(fileName+".vtt", dataVTT, "utf8", function(){
+// 		console.log("finished writing vtt file: "+fileName+".vtt");
+// 	})
+// }
+
+
+/**
+* Write to plain text file
+*/
+function writeTextFile(vttDataStructure){
+	dataTxt="Elections Results ...    ";
+	for(var i =0;i< vttDataStructure.length ; i++){
+		dataTxt+=vttDataStructure[i].text+"  | ";
+	}
+
+	fs.writeFile(fileName+".txt", dataTxt, "utf8", function(){
+		console.log("finished writing plain file: "+fileName+".txt");
+	});
 }

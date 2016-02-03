@@ -1,26 +1,32 @@
 /**
-* Parses Elex json into array of segments, that follow specs of srt parser/composer
-[{
-    id: '1',
-    startTime: 2000,
-    endTime: 6000,
-    text:  CandidateLastName State numberOfVotes
-},
-{
-    id: '2',
-    startTime: 28967,
-    endTime: 5430958,
-    text:  CandidateLastName State numberOfVotes
-}]
+* Parses Elex json into array of segments, that follow specs of srt parser/composer.
+* ie 
+[ ...
+  { id: 1798,
+    startTime: 8985000,
+    endTime: 8990000,
+    text: 'Santorum Iowa 3' },
+  { id: 1799,
+    startTime: 8990000,
+    endTime: 8995000,
+    text: 'Gilmore Iowa 0' } ]
+
 */
 
-var timeInterval = 10; // in seconds
+/**
+* if using vtt, this sets subtitle time Interval in between text subtitles entries.
+*/
+var timeInterval = 5000; // in milli seconds
 var startTime =0;
 var endTime;
 
+/**
+* Converts json from elect into vttData structure. 
+*/
 function convert(dataJson,cb){
-	
-	var srtDataStructure = []
+
+	var vttDataStructure = []
+
 	for(var i = 0; i<dataJson.length; i++ ){
 			var segment = {};
 			segment.id = i+1;
@@ -29,19 +35,15 @@ function convert(dataJson,cb){
 			endTime = startTime;
 			segment.endTime = endTime;
 			
-			if(dataJson[i].last!= null && dataJson[i].last!= undefined && dataJson[i].last != "Other" ){				
+			if(dataJson[i].last!= null && dataJson[i].last!= undefined && dataJson[i].last != "Other" && dataJson[i].last != "Uncommitted"){				
 					segment.text  = dataJson[i].last+" "+ dataJson[i].statename+" "+dataJson[i].votecount;
-				srtDataStructure.push(segment);	
-			}
-			// console.log(dataJson[i].first);
-			// console.log(dataJson[i].last);
-			// console.log(dataJson[i].statename);
-			// console.log("Party: " + dataJson[i].party);
-			// console.log("Votes: "+ dataJson[i].votecount);		
+				vttDataStructure.push(segment);	
+			}	
 	}
 
-	if(cb){cb(srtDataStructure)}
-	return srtDataStructure;
+	console.log(vttDataStructure)
+	if(cb){cb(vttDataStructure)}
+	return vttDataStructure;
 }
 
 
@@ -51,13 +53,3 @@ module.exports = {
     return convert(dataJson,cb);
   }
 }
-
-
-
-
-// module.exports = {
-// 		convertToOgg : function(src, outputName, callback){
-// 		return convertToOgg(src, outputName, callback);
-// 	}//,
-// };
-

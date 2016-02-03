@@ -12,5 +12,8 @@
   "dependencies": {
     "node-timecodes": "^2.1.4",
     "subtitles-parser": "0.0.2"
+  },
+  "devDependencies": {
+    "video.js": "^5.5.3"
   }
 }
