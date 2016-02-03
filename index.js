@@ -1,63 +1,47 @@
 var fs = require("fs");
 var parser = require('subtitles-parser');
 var timecodes = require('node-timecodes');
-var timeInterval = 10; // in seconds
-var startTime =0;
-var endTime;
+/**
+* module to parse elex json and convert into srt subtitles-parser data structure (array of segments).
+* It could be replaced with another module to convert a different type of json into srt subtitles-parser data structure (array of segments) if not working with Elex.
+*/
+var elexCrawler= require('./elexToTextCrawlerSegments')
 
 var fileName = process.argv[2];
-//add some validation
+//TODO: add some validation
 	// arg 2 needs to exist
-	//needs to be json file
-
-console.log("opening " + fileName);
-// console.log()
-
-
-
-var data = fs.readFileSync(fileName);
-
-var dataJson = JSON.parse(data);
-
+	// arg 2 needs to be json file
+	// arg 2 could be csv file?
 
 /**
-* srt data structure 
+* Opening file
 */
-var srtDataStructure = []
-for(var i = 0; i<dataJson.length; i++ ){
-	
-		var segment = {};
-		segment.id = i+1;
-		segment.startTime = startTime;
-		startTime+= timeInterval;
-		endTime = startTime;
-		segment.endTime = endTime;
+var data = fs.readFileSync(fileName);
+console.log("opened file")
+/**
+* Parsing json 
+*/
+var dataJson = JSON.parse(data);
+console.log("parsed json")
+//TODO: add support for CSV?
 
+/**
+* convert Elex json into srt data structure and write to file
+*/
 
-	
-		if(dataJson[i].last!= null && dataJson[i].last!= undefined && dataJson[i].last != "Other" ){
-			
-				segment.text  = dataJson[i].last+" "+ dataJson[i].statename+" "+dataJson[i].votecount;
-			srtDataStructure.push(segment);	
-		}
-		// console.log(dataJson[i].first);
-		// console.log(dataJson[i].last);
-		// console.log(dataJson[i].statename);
-		// console.log("Party: " + dataJson[i].party);
-		// console.log("Votes: "+ dataJson[i].votecount);
-		
-	
-	
-}
+elexCrawler.convert(dataJson,function(resp){
+	writeSRTFile(resp);
+});
 
-console.log(srtDataStructure);
 
 /**
 * Write to SRT
 */
-var dataSrt = parser.toSrt(srtDataStructure);
-console.log(dataSrt);
+function writeSRTFile(srtDataStructure){
+	var dataSrt = parser.toSrt(srtDataStructure);
+	// console.log(dataSrt);
 
-fs.writeFile(fileName+".srt", dataSrt, "utf8", function(){
-	console.log("finished exporting");
-})
+	fs.writeFile(fileName+".srt", dataSrt, "utf8", function(){
+		console.log("finished writing srt file: "+fileName+".srt");
+	})
+}
