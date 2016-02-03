@@ -19,6 +19,7 @@ var fileName = process.argv[2];
 */
 var data = fs.readFileSync(fileName);
 console.log("opened file")
+
 /**
 * Parsing json 
 */
