@@ -54,19 +54,19 @@ cd into that directory and run a server like `python -m SimpleHTTPServer 8080`.
 
 Navigate to [`http://localhost:8080`](http://localhost:8080) in your browser, and you should see the example. 
 
-default example can also be viewed [here][example]
+Default example can also be viewed [here][example]
 
 ## Design 
-The parsing of elext json has been abstracted into a separate component, in order to allow flexibility to implement conversion to srt of other types of jsons. 
+The parsing of elext json has been abstracted into a separate component, in order to allow flexibility to implement conversion to other types of jsons. 
 
-## dependencies 
+<!-- ## dependencies 
 run `npm init` from root of project to install dependencies. 
 
 Here is a list of dependencies that will be installed locally and are required by the proejct 
 
 - [subtitles-parser][subtitles-parser ]
 - [node-timecodes][node-timecodes]
-
+ -->
 
 <!-- 
 ## github page

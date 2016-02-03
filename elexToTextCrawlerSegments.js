@@ -1,5 +1,5 @@
 /**
-* Parses Elex json into array of segments, that follow specs of srt parser/composer.
+* Parses Elex json into array of segments, that follow specs of srt parser node module
 * ie 
 [ ...
   { id: 1798,

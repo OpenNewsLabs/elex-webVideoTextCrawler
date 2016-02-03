@@ -1,7 +1,5 @@
 var fs = require("fs");
-var parser = require('subtitles-parser');
 var vttParser=require('./vtt-composer')
-var timecodes = require('node-timecodes');
 /**
 * module to parse elex json and convert into srt subtitles-parser data structure (array of segments).
 * It could be replaced with another module to convert a different type of json into srt subtitles-parser data structure (array of segments) if not working with Elex.

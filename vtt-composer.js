@@ -1,7 +1,7 @@
 /*
 * Basic json to vtt conversion
+* broadly inspired by subtitles-parser node module
 */
-var timecodes = require('node-timecodes');
 
 function convert(vttDataStructure,cb){
 	var vttString = "WEBVTT\n\n"
