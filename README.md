@@ -13,7 +13,8 @@ Another option is to do some CSS Styling on the VTT track element, to animate th
 
 ## Example
 
-For the porpouse of the example, in `./HTML5VideoExample` a plain text is used, and loaded into to `marquee` tag to have animated scroll below the video.
+For the porpouse of the example, in `./HTML5VideoExample` a plain text is used, and loaded into to [`marquee`](
+https://www.scaler.com/topics/html/marquee-tag-in-html/) tag to have animated scroll below the video.
 
 For more on marquee tag see [here][marquee]
 
